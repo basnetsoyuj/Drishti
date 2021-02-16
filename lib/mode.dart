@@ -1,0 +1,4 @@
+enum Mode{
+  CASH_RECOGNITION,
+  DOCUMENT_READING,
+}
